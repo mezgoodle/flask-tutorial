@@ -3,6 +3,9 @@
 {% block body %}
 <div class="content">
     <h1 style="text-align: center;">Task master</h1>
+    {% if tasks|length < 1 %}
+    <h4 style="text-align: center;">There are no tasks. Create one below.</h4>
+    {% else %}
     <table>
         <tr>
             <th>Task</th>
@@ -21,6 +24,7 @@
             </tr>
         {% endfor %}
     </table>
+    {% endif %}
 
     <div class="form">
         <form action="" method="post">
