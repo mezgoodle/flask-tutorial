@@ -11,4 +11,5 @@ Flask used in:
 
 Articles, videos and literature:
 - [Codecamp video](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
-
+- [Flask official documentation](https://flask.palletsprojects.com/en/1.1.x/)
+- [Flask-SQLAlchemy documentation](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
