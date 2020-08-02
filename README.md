@@ -8,6 +8,7 @@ Flask used in:
 - [TOC-generator](https://github.com/mezgoodle/TOC-generator)
 - [PyParseHub](https://github.com/mezgoodle/PyParseHub)
 - [flask-site](https://github.com/mezgoodle/flask-site)
+- [flask-shop](https://github.com/mezgoodle/flask-shop)
 
 Articles, videos and literature:
 - [Codecamp video](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
