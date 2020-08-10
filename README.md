@@ -10,6 +10,7 @@ Flask used in:
 - [flask-site](https://github.com/mezgoodle/flask-site)
 - [flask-shop](https://github.com/mezgoodle/flask-shop)
 - [MezBlog-flask](https://github.com/mezgoodle/MezBlog-flask)
+- [flask-jobs](https://github.com/mezidia/flask-jobs)
 
 Articles, videos and literature:
 - [Codecamp video](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
