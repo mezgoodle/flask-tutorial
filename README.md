@@ -18,3 +18,6 @@ Articles, videos and literature:
 - [Flask-SQLAlchemy documentation](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
 - [itProger playlist](https://www.youtube.com/watch?v=jgAVGtkk03Q&list=PL0lO_mIqDDFXiIQYjLbncE9Lb6sx8elKA)
 - [Flask blog](https://www.youtube.com/playlist?list=PLlWXhlUMyooZr5R2u2Zwxt6Pw6iwBo5y5)
+- [Corey Schafer playlist](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- [CS50](https://www.youtube.com/watch?v=GhB6Q7KC-SM)
+- [Traversy media tutorial](https://www.youtube.com/watch?v=zRwy8gtgJ1A)
